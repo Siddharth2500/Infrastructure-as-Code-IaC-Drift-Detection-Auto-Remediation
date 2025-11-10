@@ -398,7 +398,7 @@ if not resource.meets_policy(policies):
 - **Zero-downtime fixes for most scenarios**
 
 ## 📊 Metrics & KPIs
-```
+```````
 Drift Detection Rate:         100%
 False Positive Rate:          < 2%
 Mean Time to Detect (MTTD):   < 5 minutes
