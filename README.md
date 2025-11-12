@@ -144,7 +144,7 @@ Priority 1: Compliance Remediation
   • EC2 Instance: 1 drift(s)
 
 ================================================================================
-```
+```````````
 
 ## 🎨 Visualizations Generated
 
