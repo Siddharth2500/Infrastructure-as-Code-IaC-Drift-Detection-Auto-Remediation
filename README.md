@@ -406,7 +406,7 @@ Mean Time to Remediate:       < 15 minutes
 Security Score Improvement:   +35% average
 Compliance Violations:        Reduced by 90%
 Manual Review Required:       Only 30% of drifts
-```
+```````
 
 ## 🔗 Integration Ecosystem
 ```
