@@ -320,7 +320,7 @@ if [ $? -ne 0 ]; then
     echo "Drift detected! Commit blocked."
     exit 1
 fi
-```
+```````
 
 ### 2. Automated Rollback
 ```python
