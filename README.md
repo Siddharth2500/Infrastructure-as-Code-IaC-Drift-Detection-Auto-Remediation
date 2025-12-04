@@ -13,7 +13,7 @@ An intelligent Infrastructure as Code (IaC) drift detection system that identifi
 - **Severity Classification**: CRITICAL, HIGH, MEDIUM, LOW based on impact
 - **ML Anomaly Detection**: Identifies unusual configuration patterns
 - **Real-time Alerts**: Priority-based notification system
-
+----------
 ## 🛠️ Technology Stack
 - **Python 3.8+**
 - **Machine Learning**: Isolation Forest for anomaly detection
