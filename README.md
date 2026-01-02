@@ -2,6 +2,7 @@
 
 ## 📋 Overview
 An intelligent Infrastructure as Code (IaC) drift detection system that identifies configuration changes, security vulnerabilities, and compliance violations in cloud infrastructure, then automatically generates remediation scripts using ML-based anomaly detection.
+----
 <img width="1990" height="1190" alt="image" src="https://github.com/user-attachments/assets/8b451bbd-2bed-40f8-9727-8eb59c8df4d4" />"
 
 ## 🎯 Key Features
