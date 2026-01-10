@@ -22,7 +22,7 @@ An intelligent Infrastructure as Code (IaC) drift detection system that identifi
 - **Cloud APIs**: AWS (boto3, AWS CLI)
 - **Data Analysis**: pandas, numpy
 - **Visualization**: matplotlib, seaborn
-
+---
 ## 📦 Installation (Google Colab)
 ```python
 # All libraries pre-installed in Colab
