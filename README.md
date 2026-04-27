@@ -33,7 +33,7 @@ An intelligent Infrastructure as Code (IaC) drift detection system that identifi
 ```python
 # Copy code to Colab cell and execute
 main()
-```
+``````
 
 ## 📊 Sample Output
 ```
